@@ -30,6 +30,11 @@ These subjects are very advanced and require more than a 3-month intensive cours
 
 <b>Therefore, effective March 9th, 2020, I am creating my own data science curriculum, and teaching myself (FOR FREE)</b>
 
+# My Learning Anatomy
+
+I hav
+
+![Image of My Learning Anatomy](http://178.62.9.151/chart.png)
 
 # My Plan To Learn Data Science
 1. [Software Eng & Data Exploring](#Software-Eng-&-Data-Exploring)
