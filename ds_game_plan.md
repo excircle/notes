@@ -30,65 +30,147 @@ These subjects are very advanced and require more than a 3-month intensive cours
 
 <b>Therefore, effective March 9th, 2020, I am creating my own data science curriculum, and teaching myself (FOR FREE)</b>
 
-# My Learning Anatomy
+# My Learning Keystones
 
-I hav
+To explain how I plan to teach myself all this stuff, I plan to illustrate the types of learning I'll be putting myself through
 
-![Image of My Learning Anatomy](http://178.62.9.151/chart.png)
+The below items, which I will refer to as <b>Learning Keystones,</b> explain what I plan to do to master skills.
+
+
+<b>1.) Book Analysis:</b> I will read a book per section of the "Custom Curriculum" listed further below in this document.</br>
+<b>2.) Web Modules:</b> I will be creating a <b>Django Web App</b> to quiz and test myself. Each section will have quiz modules.</br>
+<b>3.) Portfolio Additions:</b> This GitHub will be my Data Science learning repo. I will add code, Jupyter Notebooks, and general documentation as I learn the subjects.</br>
+<b>4.) Living Projects:</b> I will create Kubernetes clusters or Docker containers demonstrating compentency in each given section.</br>
+<b>5.) Blog Post:</b> I will add my overview of each given subject on my personal blog as I complete sections.</br>
+
+As of right now (3/9/2020), my work will be evenly divided among these subjects.
+
+![Image of My Learning Keystone](http://178.62.9.151/chart.png)
 
 # My Plan To Learn Data Science
+
+This is an adapted version of the Data Science bootcamp I was going to attend. The numbered subjects below encompass 1 week of would have been the bootcamp training I was slated to do. 
+
+As you continue reading this document, I will have a section dedicated to how I plan to teach myself these subjects, and how each subject will be turned into a "Learning Keystone".
+
 1. [Software Eng & Data Exploring](#Software-Eng-&-Data-Exploring)
-2. [Data Analysis](#Data-Analysis)
-3. [Statistics and Probability](#Statistics-and-Probability)
-4. [Regression](#Regression)
-5. [Supervised Learning](#Supervised-Learning)
-6. [Natural Language Processing](#Natural-Language-Processing)
-7. [Unsupervised Learning](#Unsupervised-Learning)
-8. [Data Engineering](#Data-Engineering)
-9. [Case Studies](#Case-Studies)
-10. [Capstone Projects](#Capstone-Projects)
-11. [Interview Preparation](#Interview-Preparation)
+2. [Statistics and Probability](#Statistics-and-Probability)
+3. [Regression](#Regression)
+4. [Supervised Learning](#Supervised-Learning)
+5. [Natural Language Processing](#Natural-Language-Processing)
+6. [Unsupervised Learning](#Unsupervised-Learning)
+7. [Data Engineering](#Data-Engineering)
+8. [Case Studies](#Case-Studies)
+9. [Capstone Projects](#Capstone-Projects)
+10. [Interview Preparation](#Interview-Preparation)
 
 ## Software Eng & Data Exploring
 
-Software engineering principles are common and very well documented. For demonstr
+Software engineering principles are common and very well documented. Having worked in Linux administration myself for over 8 years, I already adhere to several professional software engineering practices.
 
-## Data Analysis
+I have listed the Software eng skills I plan to follow below.
 
-This is Data Analysis
+<b><u>Software Eng Principles</u></b>
+```Java
+-Understanding Software Development Life Cycle (SDLC)
+	--Project Conception
+	--System Architecture
+	--QA/Testing/Acceptance/Maintenance
 
-## Statistics and
+- Methodologies
+	-Waterfall, Agile, Scrum, Kanban
+	-Using GIT
+	-Employing a CI/CD system
+-Python Software Development
+	-Using an IDE
+	-Adhering to PEP8
+	-Unit Testing
 
-This is Statistics and
+
+```
+
+The following books will supply source material.
+
+![Modern Software Eng](https://images-na.ssl-images-amazon.com/images/I/51ryPTy84NL._SX401_BO1,204,203,200_.jpg)
+![Python Software Eng](https://images-na.ssl-images-amazon.com/images/I/81twl9c-1fL.jpg)
+
+<b><u>Exploring Data</u></b>
+```Java
+-Using Python
+	--Summerize Ways to use python
+	--Explain installation and virtual envs
+	--Understand conda and others.
+
+-SQL
+	-Demonstrate basic relational theory/algebra understanding
+	-Explain Query types
+	-Translate SQL to numypy/pandas
+-Pandas	
+	-What is Pandas
+	-How is it used
+-Matplotlib	
+	-What is Matplotlib
+	-How is it used
+-numpy	
+	-What is numpy
+	-How is it used
+```
+
+## Statistics and Probability
+
+Central Limit Theorem
+Hypothesis Testing
+Bayesian Statistics
 
 ## Regression
 
-This is Regression
+linear algebra
+cross validation
+shrinkage methods and classification.
 
 ## Supervised Learning
 
-This is Supervised Learning
+Decision Trees
+k-th Nearest Neighbor
+Bagging
+Random Forests
+Support vector Machines and Boosting
 
 ## Natural Language
 
-This is Natural Language
+web-scraping with MongoDB and clustering
+Text Classification with NLTK
+scikit-learn
+TF-IDF
 
 ## Unsupervised Learning
 
-This is Unsupervised Learning
+k-means clustering
+hierarchical clustering
+principal components analysis (PCA)
+non-negative matrix factorization (NMF)
+basic recommender techniques such as collaborative filtering.
 
 ## Data Engineering
 
-This is Data Engineering
+Amazon Web Services (AWS)
+MapReduce
+Apache Spark
+parallel processing techniques
 
-## Case Studies
+## Case Studies & Visualization
 
-This is Case Studies
+data visualization
+building of web applications
+Graph Databases
+Graphing
 
 ## Capstone Projects
 
-This is Capstone Projects
+TBD
 
 ## Interview Preparation
 
-This is Interview Preparation
+Basically everything listed here:
+
+https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
