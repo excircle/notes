@@ -116,17 +116,34 @@ The following books will supply source material.
 	-How is it used
 ```
 
+https://covers.oreillystatic.com/images/0636920023784/lrg.jpg
+https://images-na.ssl-images-amazon.com/images/I/51xpFbZE3uL._SX379_BO1,204,203,200_.jpg
+
+![Python For Data Analysis](https://covers.oreillystatic.com/images/0636920023784/lrg.jpg)
+![Data Analysis With Open Source Tools](https://images-na.ssl-images-amazon.com/images/I/51xpFbZE3uL._SX379_BO1,204,203,200_.jpg)
+
 ## Statistics and Probability
 
+```Java
 Central Limit Theorem
 Hypothesis Testing
 Bayesian Statistics
+```
+
+The following books will supply the source material.
+
+![Practical Statistics for Data Scientists](https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Practical-Statistics-for-Data-Scientists.jpg?fit=381%2C500&ssl=1)
+![Think Bayes](https://images-na.ssl-images-amazon.com/images/I/91nFStDeD4L.__BG0,0,0,0_FMpng_AC_UL320_SR244,320_.jpg)
 
 ## Regression
 
 linear algebra
 cross validation
 shrinkage methods and classification.
+
+The following books will supply the source material.
+
+![Doing Math with Python](https://images-na.ssl-images-amazon.com/images/I/51Lr85JksKL._SX384_BO1,204,203,200_.jpg)
 
 ## Supervised Learning
 
