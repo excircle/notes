@@ -26,9 +26,10 @@ That is far longer than these bootcamps.
 
 I no longer believe it to be possible to adequately learn these subjects in the convenient time frame offered.
 
-<b>Therefore, effective March 9th, 2020, I am creating my own data science curriculum</b>, and teaching myself (FOR FREE) what these coding bootcamp attempted to charge me 18k for.
+These subjects are very advanced and require more than a 3-month intensive course to become competent.
 
-These subjects are very advanced and require more than a 3-month intensive course to become competent
+<b>Therefore, effective March 9th, 2020, I am creating my own data science curriculum, and teaching myself (FOR FREE)</b>
+
 
 # My Plan To Learn Data Science
 1. [Software Eng & Data Exploring](#Software-Eng-&-Data-Exploring)
