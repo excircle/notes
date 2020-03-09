@@ -2,7 +2,7 @@
 
 After reviewing the curriculum at a prominent data science bootcamp in Seattle, I've learned a few things.
 
-<b>1.)</b> That the course work is challenging.
+<b>1.)</b> That the course work is challenging.</br>
 <b>2.)</b> That the specific subjects in this challenging coursework cannot be learned in a week (like the bootcamp is suggesting).
 <b>3.)</b> I will have to teach myself these subjects (with or without the school).
 
