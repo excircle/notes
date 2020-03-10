@@ -137,50 +137,78 @@ The following books will supply the source material.
 
 ## Regression
 
-linear algebra
+```
+linear algebra - Khan Academy Courses
+Vectorization and Matrices
 cross validation
 shrinkage methods and classification.
+```
 
 The following books will supply the source material.
 
 ![Doing Math with Python](https://images-na.ssl-images-amazon.com/images/I/51Lr85JksKL._SX384_BO1,204,203,200_.jpg)
+![Linear Algebra](https://images-na.ssl-images-amazon.com/images/I/512fwF4b0wL._SX258_BO1,204,203,200_.jpg)
+![Machine Learning with Python](https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg)
 
 ## Supervised Learning
 
+```
 Decision Trees
 k-th Nearest Neighbor
 Bagging
 Random Forests
 Support vector Machines and Boosting
+```
+![Machine Learning with Python](https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg)
 
 ## Natural Language
 
+```
 web-scraping with MongoDB and clustering
 Text Classification with NLTK
 scikit-learn
 TF-IDF
+```
+
+![Machine Learning with Python](https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg)
+![NLP With Python](https://images-na.ssl-images-amazon.com/images/I/51id5aD92ML._SX379_BO1,204,203,200_.jpg)
 
 ## Unsupervised Learning
 
+```
 k-means clustering
 hierarchical clustering
 principal components analysis (PCA)
 non-negative matrix factorization (NMF)
 basic recommender techniques such as collaborative filtering.
+```
+
+![NLP With Python](https://images-na.ssl-images-amazon.com/images/I/51bnimDBPkL._SX379_BO1,204,203,200_.jpg)
 
 ## Data Engineering
-
+```
 Amazon Web Services (AWS)
 MapReduce
 Apache Spark
 parallel processing techniques
+```
+
+
+![hadoop](https://images-na.ssl-images-amazon.com/images/I/912Ok%2BQXRGL.jpg)
+![spark](https://images-na.ssl-images-amazon.com/images/I/51u80Ra18-L._SX379_BO1,204,203,200_.jpg)
+![cassandra](https://images-na.ssl-images-amazon.com/images/I/91rmkb%2B4prL._AC_UL320_SR244,320_.jpg)
 
 ## Case Studies & Visualization
-
+```
 data visualization
 building of web applications
 Graph Databases
 Graphing
+```
+
+![graph](https://graphdatabases.com/wp-content/uploads/2019/01/OReilly_Graph_Databases_lg.jpg)
+![data viz python java](https://images-na.ssl-images-amazon.com/images/I/51e472YBqmL._SX331_BO1,204,203,200_.jpg)
+![Data Analysis With Open Source Tools](https://images-na.ssl-images-amazon.com/images/I/51xpFbZE3uL._SX379_BO1,204,203,200_.jpg)
 
 ## Capstone Projects
 
