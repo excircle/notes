@@ -55,14 +55,16 @@ As you continue reading this document, I will have a section dedicated to how I 
 
 1. [Software Eng & Data Exploring](#Software-Eng-&-Data-Exploring)
 2. [Statistics and Probability](#Statistics-and-Probability)
-3. [Regression](#Regression)
-4. [Supervised Learning](#Supervised-Learning)
-5. [Natural Language Processing](#Natural-Language-Processing)
-6. [Unsupervised Learning](#Unsupervised-Learning)
-7. [Data Engineering](#Data-Engineering)
-8. [Case Studies](#Case-Studies)
-9. [Capstone Projects](#Capstone-Projects)
-10. [Interview Preparation](#Interview-Preparation)
+3. [Linear Algebra](#Linear-Algebra)
+4. [Calculus](#Calculus)
+5. [Regression](#Regression)
+6. [Supervised Learning](#Supervised-Learning)
+7. [Natural Language Processing](#Natural-Language-Processing)
+8. [Unsupervised Learning](#Unsupervised-Learning)
+9. [Data Engineering](#Data-Engineering)
+10. [Case Studies](#Case-Studies)
+11. [Capstone Projects](#Capstone-Projects)
+12. [Interview Preparation](#Interview-Preparation)
 
 ## Software Eng & Data Exploring
 
@@ -135,6 +137,22 @@ The following books will supply the source material.
 ![Practical Statistics for Data Scientists](https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Practical-Statistics-for-Data-Scientists.jpg?fit=381%2C500&ssl=1)
 ![Think Bayes](https://images-na.ssl-images-amazon.com/images/I/91nFStDeD4L.__BG0,0,0,0_FMpng_AC_UL320_SR244,320_.jpg)
 
+## Linear Algebra
+
+```Java
+algebra shit
+```
+
+The following books will supply the source material.
+
+## Calculus
+
+```Java
+Calc shit
+```
+
+The following books will supply the source material.
+
 ## Regression
 
 ```
@@ -158,6 +176,10 @@ k-th Nearest Neighbor
 Bagging
 Random Forests
 Support vector Machines and Boosting
+scikit-learn
+MXNet
+Tensorflow
+XGBoost
 ```
 ![Machine Learning with Python](https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg)
 
