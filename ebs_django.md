@@ -3,12 +3,12 @@
 Use the `virtualenv` command to create a virtual environment for our Django Application
 
 ```bash
-~$ virtualenv ~/eb-virt
+~$ virtualenv eb-virt
 ```
 
 Next, turn the virtual environment on
 ```bash
-~$ source ~/eb-virt/bin/activate
+~$ source eb-virt/bin/activate
 (eb-virt) ~$
 ```
  Next, use the Python Package Manager to install the version of Django we want.
@@ -76,14 +76,14 @@ Now, we'll turn off our virtual environment. deactivate command.
 Initialize your EB CLI repository with the eb init command.
 
 ```bash
-    ~/ebdjango$ eb init -p python-3.6 django-tutorial
+    ~/ebdjango$ eb init -p python-3.6 django-tutorial2
 ```
 This command creates an application named django-tutorial. It also configures your local repository to create environments with the latest Python 3.6 platform version.
 
 Next, we'll create an environment to deliver our application to using the `eb create` command.
 
 ```bash
-    ~/ebdjango$ eb create django-env
+    ~/ebdjango$ eb create django-env1
 ```
 
 This process will take approximately 5 minutes. You can check the status of the deploy by running the following command.
