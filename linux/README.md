@@ -1,1 +1,2 @@
-# Linux notes
+# notes
+personal notes
