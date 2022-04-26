@@ -10,7 +10,7 @@ echo "deb http://deb.debian.org/debian buster-backports main" > /etc/apt/sources
 apt update -y
 ```
 
-# Upgrade Kernal using apt
+# Upgrade Kernel using apt
 
 ```bash
 apt -t buster-backports upgrade -y
